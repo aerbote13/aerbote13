@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning
+- 🔭 I’m currently working on 蓝桥
+- 🌱 I’m currently learning  K61S2
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
 - 💬 Ask me about
